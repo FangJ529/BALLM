@@ -2,3 +2,4 @@
 - torch.nn.Embedding
 - DataLoader中shuffle
 - torch.arange
+- softmax函数
