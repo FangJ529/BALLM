@@ -1,0 +1,4 @@
+- 独热编码(one-hot encoding)
+- torch.nn.Embedding
+- DataLoader中shuffle
+- torch.arange
